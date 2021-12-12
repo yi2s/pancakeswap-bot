@@ -1,0 +1,249 @@
+211207 14:53:26 [Note] Plugin 'FEDERATED' is disabled.
+211207 14:53:26 InnoDB: The InnoDB memory heap is disabled
+211207 14:53:26 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211207 14:53:26 InnoDB: Compressed tables use zlib 1.2.3
+211207 14:53:26 InnoDB: Initializing buffer pool, size = 47.0M
+211207 14:53:26 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+211207 14:53:26  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+211207 14:53:26  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 24 MB
+InnoDB: Database physically writes the file full: wait...
+211207 14:53:26  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 24 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+211207 14:53:27  InnoDB: Waiting for the background threads to start
+211207 14:53:28 InnoDB: 5.5.53 started; log sequence number 0
+211207 14:53:28 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+211207 14:53:28 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+211207 14:53:28 [Note] Server socket created on IP: '0.0.0.0'.
+211207 14:53:32 [Note] Event Scheduler: Loaded 0 events
+211207 14:53:32 [Note] mysqld.exe: ready for connections.
+Version: '5.5.53'  socket: ''  port: 3306  MySQL Community Server (GPL)
+211207 14:57:51 [Note] Plugin 'FEDERATED' is disabled.
+211207 14:57:51 InnoDB: The InnoDB memory heap is disabled
+211207 14:57:51 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211207 14:57:51 InnoDB: Compressed tables use zlib 1.2.3
+211207 14:57:51 InnoDB: Initializing buffer pool, size = 47.0M
+211207 14:57:51 InnoDB: Completed initialization of buffer pool
+211207 14:57:51  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+211207 14:58:01  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+211207 14:58:11  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+211207 15:00:50 [Note] Plugin 'FEDERATED' is disabled.
+211207 15:00:50 InnoDB: The InnoDB memory heap is disabled
+211207 15:00:50 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211207 15:00:50 InnoDB: Compressed tables use zlib 1.2.3
+211207 15:00:50 InnoDB: Initializing buffer pool, size = 47.0M
+211207 15:00:50 InnoDB: Completed initialization of buffer pool
+211207 15:00:50 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+211207 15:00:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+211207 15:00:50  InnoDB: Waiting for the background threads to start
+211207 15:00:51 InnoDB: 5.5.53 started; log sequence number 1595675
+mysqld.exe: Too many arguments (first extra is 'start').
+Use --verbose --help to get a list of available options
+211207 15:00:51 [ERROR] Aborting
+
+211207 15:00:51  InnoDB: Starting shutdown...
+211207 15:00:52  InnoDB: Shutdown completed; log sequence number 1595675
+211207 15:00:52 [Note] mysqld.exe: Shutdown complete
+
+211207 15:01:03 [Note] Plugin 'FEDERATED' is disabled.
+211207 15:01:03 InnoDB: The InnoDB memory heap is disabled
+211207 15:01:03 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211207 15:01:03 InnoDB: Compressed tables use zlib 1.2.3
+211207 15:01:03 InnoDB: Initializing buffer pool, size = 47.0M
+211207 15:01:03 InnoDB: Completed initialization of buffer pool
+211207 15:01:03 InnoDB: highest supported file format is Barracuda.
+211207 15:01:03  InnoDB: Waiting for the background threads to start
+211207 15:01:04 InnoDB: 5.5.53 started; log sequence number 1595675
+211207 15:01:04 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+211207 15:01:04 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+211207 15:01:04 [Note] Server socket created on IP: '127.0.0.1'.
+211207 15:01:04 [Note] Event Scheduler: Loaded 0 events
+211207 15:01:04 [Note] mysqld.exe: ready for connections.
+Version: '5.5.53'  socket: ''  port: 3306  MySQL Community Server (GPL)
+211207 15:41:34 [Note] Plugin 'FEDERATED' is disabled.
+211207 15:41:34 InnoDB: The InnoDB memory heap is disabled
+211207 15:41:34 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211207 15:41:34 InnoDB: Compressed tables use zlib 1.2.3
+211207 15:41:34 InnoDB: Initializing buffer pool, size = 47.0M
+211207 15:41:34 InnoDB: Completed initialization of buffer pool
+211207 15:41:34 InnoDB: highest supported file format is Barracuda.
+211207 15:41:34  InnoDB: Waiting for the background threads to start
+211207 15:41:35 InnoDB: 5.5.53 started; log sequence number 1595675
+211207 15:41:35 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+211207 15:41:35 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+211207 15:41:35 [Note] Server socket created on IP: '127.0.0.1'.
+211207 15:41:35 [Note] Event Scheduler: Loaded 0 events
+211207 15:41:35 [Note] MySQL/bin/mysqld.exe: ready for connections.
+Version: '5.5.53'  socket: ''  port: 3306  MySQL Community Server (GPL)
+211207 15:42:34 [Note] Plugin 'FEDERATED' is disabled.
+211207 15:42:34 InnoDB: The InnoDB memory heap is disabled
+211207 15:42:34 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211207 15:42:34 InnoDB: Compressed tables use zlib 1.2.3
+211207 15:42:34 InnoDB: Initializing buffer pool, size = 47.0M
+211207 15:42:34 InnoDB: Completed initialization of buffer pool
+211207 15:42:34 InnoDB: highest supported file format is Barracuda.
+211207 15:42:34  InnoDB: Waiting for the background threads to start
+211207 15:42:35 InnoDB: 5.5.53 started; log sequence number 1595675
+211207 15:42:35 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+211207 15:42:35 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+211207 15:42:35 [Note] Server socket created on IP: '127.0.0.1'.
+211207 15:42:35 [Note] Event Scheduler: Loaded 0 events
+211207 15:42:35 [Note] MySQL/bin/mysqld.exe: ready for connections.
+Version: '5.5.53'  socket: ''  port: 3306  MySQL Community Server (GPL)
+211207 15:47:10 [Note] Plugin 'FEDERATED' is disabled.
+211207 15:47:10 InnoDB: The InnoDB memory heap is disabled
+211207 15:47:10 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211207 15:47:10 InnoDB: Compressed tables use zlib 1.2.3
+211207 15:47:10 InnoDB: Initializing buffer pool, size = 47.0M
+211207 15:47:10 InnoDB: Completed initialization of buffer pool
+211207 15:47:10 InnoDB: highest supported file format is Barracuda.
+211207 15:47:10  InnoDB: Waiting for the background threads to start
+211207 15:47:11 InnoDB: 5.5.53 started; log sequence number 1595675
+211207 15:47:11 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+211207 15:47:11 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+211207 15:47:11 [Note] Server socket created on IP: '127.0.0.1'.
+211207 15:47:11 [Note] Event Scheduler: Loaded 0 events
+211207 15:47:11 [Note] MySQL/bin/mysqld.exe: ready for connections.
+Version: '5.5.53'  socket: ''  port: 3306  MySQL Community Server (GPL)
+211207 15:47:59 [Note] Plugin 'FEDERATED' is disabled.
+211207 15:47:59 InnoDB: The InnoDB memory heap is disabled
+211207 15:47:59 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211207 15:47:59 InnoDB: Compressed tables use zlib 1.2.3
+211207 15:47:59 InnoDB: Initializing buffer pool, size = 47.0M
+211207 15:47:59 InnoDB: Completed initialization of buffer pool
+211207 15:47:59  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+211207 15:48:09  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+211207 15:48:19  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+211207 15:48:29  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+211207 15:48:39  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+211207 15:48:49  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+211207 15:49:11 [Note] Plugin 'FEDERATED' is disabled.
+211207 15:49:11 InnoDB: The InnoDB memory heap is disabled
+211207 15:49:11 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211207 15:49:11 InnoDB: Compressed tables use zlib 1.2.3
+211207 15:49:11 InnoDB: Initializing buffer pool, size = 47.0M
+211207 15:49:11 InnoDB: Completed initialization of buffer pool
+211207 15:49:11  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+211207 15:49:21  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+211207 15:53:39 [Note] Plugin 'FEDERATED' is disabled.
+211207 15:53:39 InnoDB: The InnoDB memory heap is disabled
+211207 15:53:39 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211207 15:53:39 InnoDB: Compressed tables use zlib 1.2.3
+211207 15:53:39 InnoDB: Initializing buffer pool, size = 47.0M
+211207 15:53:39 InnoDB: Completed initialization of buffer pool
+211207 15:53:39 InnoDB: highest supported file format is Barracuda.
+211207 15:53:39  InnoDB: Waiting for the background threads to start
+211207 15:53:40 InnoDB: 5.5.53 started; log sequence number 1595675
+211207 15:53:40 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+211207 15:53:40 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+211207 15:53:40 [Note] Server socket created on IP: '127.0.0.1'.
+211207 15:53:40 [Note] Event Scheduler: Loaded 0 events
+211207 15:53:40 [Note] MySQL/bin/mysqld.exe: ready for connections.
+Version: '5.5.53'  socket: ''  port: 3306  MySQL Community Server (GPL)
+211207 15:55:58 [Note] Plugin 'FEDERATED' is disabled.
+211207 15:55:58 InnoDB: The InnoDB memory heap is disabled
+211207 15:55:58 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211207 15:55:58 InnoDB: Compressed tables use zlib 1.2.3
+211207 15:55:58 InnoDB: Initializing buffer pool, size = 47.0M
+211207 15:55:58 InnoDB: Completed initialization of buffer pool
+211207 15:55:58 InnoDB: highest supported file format is Barracuda.
+211207 15:55:58  InnoDB: Waiting for the background threads to start
+211207 15:55:59 InnoDB: 5.5.53 started; log sequence number 1595675
+211207 15:55:59 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+211207 15:55:59 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+211207 15:55:59 [Note] Server socket created on IP: '127.0.0.1'.
+211207 15:55:59 [Note] Event Scheduler: Loaded 0 events
+211207 15:55:59 [Note] MySQL/bin/mysqld.exe: ready for connections.
+Version: '5.5.53'  socket: ''  port: 3306  MySQL Community Server (GPL)
+211207 15:58:52 [Note] Plugin 'FEDERATED' is disabled.
+211207 15:58:52 InnoDB: The InnoDB memory heap is disabled
+211207 15:58:52 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211207 15:58:52 InnoDB: Compressed tables use zlib 1.2.3
+211207 15:58:52 InnoDB: Initializing buffer pool, size = 47.0M
+211207 15:58:52 InnoDB: Completed initialization of buffer pool
+211207 15:58:52 InnoDB: highest supported file format is Barracuda.
+211207 15:58:52  InnoDB: Waiting for the background threads to start
+211207 15:58:53 InnoDB: 5.5.53 started; log sequence number 1595675
+211207 15:58:53 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+211207 15:58:53 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+211207 15:58:53 [Note] Server socket created on IP: '127.0.0.1'.
+211207 15:58:53 [Note] Event Scheduler: Loaded 0 events
+211207 15:58:53 [Note] MySQL/bin/mysqld.exe: ready for connections.
+Version: '5.5.53'  socket: ''  port: 3306  MySQL Community Server (GPL)
+211207 15:59:13 [Note] Plugin 'FEDERATED' is disabled.
+211207 15:59:13 InnoDB: The InnoDB memory heap is disabled
+211207 15:59:13 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211207 15:59:13 InnoDB: Compressed tables use zlib 1.2.3
+211207 15:59:13 InnoDB: Initializing buffer pool, size = 47.0M
+211207 15:59:13 InnoDB: Completed initialization of buffer pool
+211207 15:59:13  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+211207 15:59:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+211212 12:11:27 [Note] Plugin 'FEDERATED' is disabled.
+211212 12:11:27 InnoDB: The InnoDB memory heap is disabled
+211212 12:11:27 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211212 12:11:27 InnoDB: Compressed tables use zlib 1.2.3
+211212 12:11:27 InnoDB: Initializing buffer pool, size = 47.0M
+211212 12:11:27 InnoDB: Completed initialization of buffer pool
+211212 12:11:27 InnoDB: highest supported file format is Barracuda.
+211212 12:11:27  InnoDB: Waiting for the background threads to start
+211212 12:11:28 InnoDB: 5.5.53 started; log sequence number 1595675
+211212 12:11:28 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+211212 12:11:28 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+211212 12:11:28 [Note] Server socket created on IP: '127.0.0.1'.
+211212 12:11:28 [Note] Event Scheduler: Loaded 0 events
+211212 12:11:28 [Note] MySQL/bin/mysqld.exe: ready for connections.
+Version: '5.5.53'  socket: ''  port: 3306  MySQL Community Server (GPL)

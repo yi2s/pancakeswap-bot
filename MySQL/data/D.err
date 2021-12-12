@@ -1,0 +1,88 @@
+211212 12:41:36 [Note] Plugin 'FEDERATED' is disabled.
+211212 12:41:36 InnoDB: The InnoDB memory heap is disabled
+211212 12:41:36 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211212 12:41:36 InnoDB: Compressed tables use zlib 1.2.3
+211212 12:41:36 InnoDB: Initializing buffer pool, size = 47.0M
+211212 12:41:36 InnoDB: Completed initialization of buffer pool
+211212 12:41:36 InnoDB: highest supported file format is Barracuda.
+211212 12:41:36  InnoDB: Waiting for the background threads to start
+211212 12:41:37 InnoDB: 5.5.53 started; log sequence number 1595675
+211212 12:41:37 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+211212 12:41:37 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+211212 12:41:37 [Note] Server socket created on IP: '127.0.0.1'.
+211212 12:41:37 [Note] Event Scheduler: Loaded 0 events
+211212 12:41:37 [Note] MySQL/bin/mysqld.exe: ready for connections.
+Version: '5.5.53'  socket: ''  port: 3306  MySQL Community Server (GPL)
+211212 13:10:44 [Note] Plugin 'FEDERATED' is disabled.
+211212 13:10:44 InnoDB: The InnoDB memory heap is disabled
+211212 13:10:44 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211212 13:10:44 InnoDB: Compressed tables use zlib 1.2.3
+211212 13:10:44 InnoDB: Initializing buffer pool, size = 47.0M
+211212 13:10:44 InnoDB: Completed initialization of buffer pool
+211212 13:10:44 InnoDB: highest supported file format is Barracuda.
+211212 13:10:45  InnoDB: Waiting for the background threads to start
+211212 13:10:46 InnoDB: 5.5.53 started; log sequence number 1595675
+211212 13:10:46 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+211212 13:10:46 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+211212 13:10:46 [Note] Server socket created on IP: '127.0.0.1'.
+211212 13:10:46 [Note] Event Scheduler: Loaded 0 events
+211212 13:10:46 [Note] MySQL/bin/mysqld.exe: ready for connections.
+Version: '5.5.53'  socket: ''  port: 3306  MySQL Community Server (GPL)
+211212 13:17:03 [Note] Plugin 'FEDERATED' is disabled.
+211212 13:17:03 InnoDB: The InnoDB memory heap is disabled
+211212 13:17:03 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211212 13:17:03 InnoDB: Compressed tables use zlib 1.2.3
+211212 13:17:03 InnoDB: Initializing buffer pool, size = 47.0M
+211212 13:17:03 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+211212 13:17:03  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+211212 13:17:03  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 24 MB
+InnoDB: Database physically writes the file full: wait...
+211212 13:17:03  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 24 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+211212 13:17:03  InnoDB: Waiting for the background threads to start
+211212 13:17:04 InnoDB: 5.5.53 started; log sequence number 0
+211212 13:17:04 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+211212 13:17:04 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+211212 13:17:04 [Note] Server socket created on IP: '127.0.0.1'.
+211212 13:17:04 [Note] Event Scheduler: Loaded 0 events
+211212 13:17:04 [Note] MySQL/bin/mysqld.exe: ready for connections.
+Version: '5.5.53'  socket: ''  port: 3306  MySQL Community Server (GPL)
+211212 13:24:04 [Note] Plugin 'FEDERATED' is disabled.
+211212 13:24:04 InnoDB: The InnoDB memory heap is disabled
+211212 13:24:04 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211212 13:24:04 InnoDB: Compressed tables use zlib 1.2.3
+211212 13:24:04 InnoDB: Initializing buffer pool, size = 47.0M
+211212 13:24:04 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+211212 13:24:04  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+211212 13:24:04  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 24 MB
+InnoDB: Database physically writes the file full: wait...
+211212 13:24:04  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 24 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+211212 13:24:04  InnoDB: Waiting for the background threads to start
+211212 13:24:05 InnoDB: 5.5.53 started; log sequence number 0
+211212 13:24:05 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+211212 13:24:05 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+211212 13:24:05 [Note] Server socket created on IP: '127.0.0.1'.
+211212 13:24:05 [Note] Event Scheduler: Loaded 0 events
+211212 13:24:05 [Note] MySQL/bin/mysqld.exe: ready for connections.
+Version: '5.5.53'  socket: ''  port: 3306  MySQL Community Server (GPL)
