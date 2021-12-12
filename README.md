@@ -7,6 +7,7 @@
 >电脑不要随意给其他人使用，数据全部记录在本机数据库与日志中，完全自己掌控安全；  
 >只测试了bnb交易对,其他交易对能不能用不知道；  
 >价格接口使用的是pancakeabi接口查询，应该是最准确（正常买入价格比卖出价格高）；
+>为什么不开源，不懂的人还是不懂，懂的人自己写或者反编译下就出来了，唯一的对外网络请求是RPC URL。
 
 
     买入
@@ -59,7 +60,10 @@ bscsell        0xxxxxxx   0xxxxxx  0xxxxxx       d            0.2               
 
 ![avatar](./images/5.png)
 
-* crontab表达式使用参考
+* crontab表达式使用参考  
+>https://www.cnblogs.com/zuxingyu/p/6023919.html
+
+举例：
 
         每秒执行一次：* * * * * *
 
