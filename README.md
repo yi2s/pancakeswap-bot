@@ -83,3 +83,8 @@ bscsell        0xxxxxxx   0xxxxxx  0xxxxxx       d            0.2               
         在26分、29分、33分执行一次：0 26,29,33 * * * *
 
         每天的0点、13点、18点、21点都执行一次：0 0 0,13,18,21 * * *
+
+
+添加python脚本，bscbuy.exe bscsell.exe是使用下列的python脚本打包生成的。   
+bscbuy.py  
+bscsell.py  
